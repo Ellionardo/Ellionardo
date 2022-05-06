@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking for companies to collaborate with web development and TI
 - 📫 How to reach me: elionars@gmail.com
-- ☎️ WhatsApp: <a href="api.whatsapp.com/send?1=pt_BR&phone=5521985926004" target="blank">+5521985926004</a>
+- 👔 Linkedin: <a ref="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="_blank">Elionardo Santos</a>
 
 
 <br>
@@ -22,8 +22,7 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento web
 - 💞️ Estou procurando por empresas para colaborar com desenvolvimento web e TI
 - 📫 Como me contatar: elionars@gmail.com
-- ☎️ WhatsApp: <a href="api.whatsapp.com/send?1=pt_BR&phone=5521985926004" target="blank">+5521985926004</a>
-
+- 👔 Linkedin: <a ref="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="_blank">Elionardo Santos</a>
 
 <!---
 Ellionardo/Ellionardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

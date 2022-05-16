@@ -1,5 +1,3 @@
-----
-
 - 👋 Hi, my name is Elionardo Santos
 - 🙈 I'm 29 years old, 1992
 - 🌎 I'm brazilian, from Rio de Janeiro
@@ -8,10 +6,6 @@
 - 💞️ I’m looking for companies to collaborate with web development and TI
 - 📫 How to reach me: elionars@gmail.com
 - 👔 Linkedin: <a href="https://www.linkedin.com/in/elionardo-silva-dos-santos-7996b8187" target="blank">Elionardo Santos</a>
-
-
-<br>
-
 
 <hr>
 

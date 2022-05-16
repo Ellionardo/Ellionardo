@@ -13,7 +13,7 @@
 <br>
 
 
-----
+<hr>
 
 - 👋 Olá, meu nome é Elionardo Santos
 - 🙈 Tenho 29 anos, 1992
